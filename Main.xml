@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <process 	name="Main">
-
+<stp Type="Internal">
+    <content Object.Key="" Mode="Get" Member="" Key="">
+</stp>
+<stp Type="Internal">
+    <content Object.Key="" Mode="Set" Member="" Key="" >
+        <param Value="" />
+    </content>
+</stp>
 </process>
